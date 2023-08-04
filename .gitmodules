@@ -1,0 +1,3 @@
+[submodule "modules/Mate-Rechner"]
+	path = modules/Mate-Rechner
+	url = git@github.com:lucaspalomodevelop/Mate-Rechner.git

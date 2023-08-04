@@ -1,0 +1,5 @@
+*.out
+mate
+.ccls-cache
+coffein
+.vscode

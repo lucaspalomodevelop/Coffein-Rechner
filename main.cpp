@@ -1,10 +1,12 @@
 #include "main.hpp"
 
 #include "./modules/Mate-Rechner/initModule.hpp"
+#include "./modules/Kaffee-Rechner/initModule.hpp"
 
 int main(int argc, char *argv[])
 {
     modules["Mate-Rechner"] = MateRechner();
+    modules["Kaffee-Rechner"] = KaffeeRechner();
 
     if (argc > 1)
     {

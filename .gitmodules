@@ -1,8 +1,6 @@
 [submodule "modules/Mate-Rechner"]
 	path = modules/Mate-Rechner
 	url = git@github.com:lucaspalomodevelop/Mate-Rechner.git
-
 [submodule "modules/Kaffee-Rechner"]
 	path = modules/Kaffee-Rechner
 	url = git@github.com:lucaspalomodevelop/Kaffee-Rechner.git
-

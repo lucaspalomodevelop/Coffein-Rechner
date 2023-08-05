@@ -73,11 +73,11 @@ int coffeeMain()
     cout << "\n";
     cout << "     _____________\n";
     cout << "    <_____________> ___\n";
-    cout << "    |             |/ _ \\n";
+    cout << "    |             |/ _ \\ \n";
     cout << "    |               | | |\n";
     cout << "    |               |_| |\n";
     cout << " ___|             |\\___/\n";
-    cout << "/    \\___________/    \\n";
+    cout << "/    \\___________/    \\ \n";
     cout << "\\_____________________/\n";
 
     cout << "Dieser Rechner weiß wie viel Kaffee du am Tag brauchst!\nkennst du die Anzahl? J/N\ninput:";
